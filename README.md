@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+🔭 I’m currently learning about statistics and data science.
+
+💬 Ask me about anything to do with creative thinking and problem solving.
+
+Thank you for reading and good luck with coding!
+
+
 <!--
 **ManasviMalepati/ManasviMalepati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
